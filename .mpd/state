@@ -1,0 +1,50 @@
+sw_volume: 1
+audio_device_state:1:my_fifo
+audio_device_state:1:ALSA Device
+state: stop
+current: 31
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Imagine_Dragons/03 Track 03.wma
+1:Imagine_Dragons/05 Track 05.wma
+2:Imagine_Dragons/06 Track 06.wma
+3:Imagine_Dragons/11 Track 11.wma
+4:Imagine_Dragons/IBetMyLife_ImagineDragons.mp3
+5:Imagine_Dragons/Monster_ImagineDragons.mp3
+6:Imagine_Dragons/Polaroid_ImagineDragons.mp3
+7:Imagine_Dragons/WhoWeAre_ImagineDragons.mp3
+8:Imagine_Dragons/Warriors_ImagineDragons.mp3
+9:Maroon5/JustAFeeling_Maroon5.mp3
+10:Maroon5/LoveSomebody_Maroon5.mp3
+11:Maroon5/NeverGonnaLeaveThisBed_Maroon5.mp3
+12:Maroon5/Payphone_Maroon5.mp3
+13:Maroon5/ThisLove_Maroon5.mp3
+14:NewFun/BetweenTheRaindrops_LifeHouse_NatashaBedingfield.mp3
+15:NewFun/Geronimo_Sheppard.mp3
+16:NewFun/HeartbeatSong_KellyClarkson.mp3
+17:NewFun/HoneyImGood_AndyGrammer.mp3
+18:NewFun/LoneRanger_RachelPlatten.mp3
+19:NewFun/RatherBe_CleanBandit_ftJesseGlynne.mp3
+20:NewFun/StereoHeart_GymClassHeroes_Maroon5.mp3
+21:OneRepublic/BurningBridges_OneRepublic.mp3
+22:OneRepublic/CountingStars_OneRepublic.mp3
+23:OneRepublic/FeelAgain_OneRepublic.mp3
+24:OneRepublic/GoodLife_OneRepublic.mp3
+25:OneRepublic/ILived_OneRepublic.mp3
+26:OneRepublic/MarchinOn_OneRepublic.mp3
+27:OneRepublic/Secrets_OneRepublic.mp3
+28:OneRepublic/SomethingINeed_OneRepublic.mp3
+29:NewFun/HoldBackTheRiver_JamesBay.mp3
+30:Decemberists/RoxInTheBox_Decemberists.mp3
+31:Coldplay/Lost_Coldplay.mp3
+32:Coldplay/SpeedOfSound_Coldplay.mp3
+33:Coldplay/Yellow_Coldplay.mp3
+34:Coldplay/Clocks_Coldplay.mp3
+35:SkyFullOfStars_Coldplay.mp3
+playlist_end

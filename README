@@ -1,0 +1,7 @@
+Clone this repo
+
+move everything to your home folder.
+edit .mpdconf with your username
+edit .ncmpcpp/config with your username
+go through .mpdconf to make sure the proper audio devices are set
+and that your music directory and mpd files are pointed to their correct locations

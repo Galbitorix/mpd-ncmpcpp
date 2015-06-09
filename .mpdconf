@@ -1,0 +1,32 @@
+music_directory		"~/Music"
+db_file			"~/.mpd/database"
+log_file		"~/.mpd/log"
+pid_file		"~/.mpd/pid"
+state_file		"~/.mpd/state"
+playlist_directory	"~/.mpd/playlists"
+log_level		"default"
+bind_to_address		"127.0.0.1"
+bind_to_address		"~/.mpd/socket"
+port 			"6600"
+gapless_mp3_playback	"yes"
+auto_update		"yes"
+user 			"YOUR USERNAME HERE"
+
+#input {
+	
+#}
+
+audio_output {
+	type	"fifo"
+	name 	"my_fifo"
+	path 	"/tmp/mpd.fifo"
+	format	"44100:16:1"
+}
+
+audio_output {
+	type 		"alsa"
+	name 		"ALSA Device"
+}
+
+replaygain 		"album"
+replaygain_preamp	"0"
